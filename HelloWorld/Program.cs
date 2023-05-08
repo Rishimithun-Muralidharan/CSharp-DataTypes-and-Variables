@@ -19,6 +19,12 @@ namespace HelloWorld
 
             Console.WriteLine(x + " divided by " + y + " is " + xydivide);
 
+            long f = 868665675;
+            long g = 675444535354;
+            long fgdivide = g / f;
+
+            Console.WriteLine(f + " divided by " + g + " is " + fgdivide);
+
             
             
             
