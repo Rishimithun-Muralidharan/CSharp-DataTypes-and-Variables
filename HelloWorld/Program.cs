@@ -11,8 +11,15 @@ namespace HelloWorld
             double abdivide = a / b;
             
             
-            Console.WriteLine(abdivide);
-            Console.Read();
+            Console.WriteLine(a + " divided by " + b + " is " + abdivide);
+
+            float x = 1.666f;
+            float y = 1.888f;
+            float xydivide = x / y;
+
+            Console.WriteLine(x + " divided by " + y + " is " + xydivide);
+
+            
             
             
         }
